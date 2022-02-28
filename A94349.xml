@@ -1,0 +1,302 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon of consolation for all true Christians; as it was lately delivered at London-VVall, / by Mr Till, a faithfull minister of Jesus Christ, who though he be deprived of his outward bodily sight, yet is indued with inward spirituall light. Taken from him as it was delivered in short-hand, and now published for the comfort of all true Christians, by J.H. a friend of the authors. It being very usefull for dejected soules in sad times. Licensed, entred, and printed according to order.</title>
+            <author>Till, Mr.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94349</idno>
+            <idno type="STC">Wing T1163</idno>
+            <idno type="STC">Thomason E338_4</idno>
+            <idno type="STC">ESTC R200839</idno>
+            <idno type="EEBO-CITATION">99861472</idno>
+            <idno type="PROQUEST">99861472</idno>
+            <idno type="VID">113609</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94349)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113609)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E338[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon of consolation for all true Christians; as it was lately delivered at London-VVall, / by Mr Till, a faithfull minister of Jesus Christ, who though he be deprived of his outward bodily sight, yet is indued with inward spirituall light. Taken from him as it was delivered in short-hand, and now published for the comfort of all true Christians, by J.H. a friend of the authors. It being very usefull for dejected soules in sad times. Licensed, entred, and printed according to order.</title>
+                  <author>Till, Mr.</author>
+                  <author>J. H.</author>
+               </titleStmt>
+               <extent>[4], 15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matthew Simmons for John Hancock, and to be sold at his shop at the entrance into Popes-head-Alley out of Cornhill.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 25th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Corinthians, 2nd I, 5 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113609:1"/>
+            <pb facs="tcp:113609:1" rendition="simple:additions"/>
+            <p>A Sermon of CONSOLATION FOR ALL TRUE CHRISTIANS; As it was lately delivered at <hi>LONDON-VVALL,</hi> By M<hi rend="sup">r</hi> TILL, a faithfull Miniſter of Jeſus Chriſt, who though he be deprived of his outward bodily ſight, yet is indued with <hi>inward ſpirituall light.</hi>
+            </p>
+            <p>Taken from him as it was delivered in Short-hand, and now publiſhed for the comfort of all true Chriſtians, by <hi>J. H.</hi> a friend of the Authors.</p>
+            <p>It being very uſefull for dejected ſoules in ſad Times.</p>
+            <q>
+               <bibl>JOHN 6.37.</bibl>
+               <p>All that the Father giveth me, ſhall come to me: and him that commeth to me, I will in no wiſe caſt out.</p>
+            </q>
+            <p>Licenſed, entred, and printed according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Matthew Simmons</hi> for <hi>John Hancock,</hi> and to be ſold at his Shop at the entrance into <hi>Popes</hi>-head-Alley out of <hi>Cornhill.</hi> 1646.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:113609:2"/>
+            <pb facs="tcp:113609:2"/>
+            <head>
+               <g ref="char:leaf">❧</g> TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">T</seg>His Sermon was preached by that godly and famous Divine, M<hi rend="sup">r</hi> 
+               <hi>Till,</hi> and publiſhed to the world for comfort to all the chil<g ref="char:EOLhyphen"/>dren of God, to truſt in Jeſus Chriſt in theſe times of tribulation. For God pro<g ref="char:EOLhyphen"/>miſes <hi>to be with them to the end of the world;</hi> and as the Apoſtle <hi>Paul</hi> ſaith, <hi>Though wee ſuffer for Chriſt here, wee ſhall reigne with him hereafter.</hi> For <hi>to you is the King<g ref="char:EOLhyphen"/>dome prepared;</hi> to <hi>you,</hi> which conti<g ref="char:EOLhyphen"/>nue conſtant to the end, faithfull to the death; you ſhall have a Crowne of bliſſe: God hath promiſed, nay, God hath ſworne, and he will performe, that they
+<pb facs="tcp:113609:3"/>that <hi>live holy and righteouſly</hi> here in this <hi>life,</hi> ſhall <hi>live for ever</hi> in the King<g ref="char:EOLhyphen"/>dome of <hi>Heaven.</hi> Though here is <hi>mour<g ref="char:EOLhyphen"/>ning,</hi> there <hi>rejoycing;</hi> here <hi>afflictions,</hi> there <hi>comfort;</hi> All teares ſhall be wiped away from your eyes; There are <hi>joyes for ever,</hi> which <hi>eye hath not ſeene, care hath not heard, neither hath it entred into the heart of man to con<g ref="char:EOLhyphen"/>ceive.</hi> You are Gods <hi>jewels,</hi> you are the <hi>wheat,</hi> which ſhall be laid up in the <hi>Barne,</hi> when the <hi>chaffe</hi> ſhall be burnt with unquenchable fire: Yee ſhall ſing <hi>Hallelujah,</hi> when your tormentors ſhall be <hi>howling;</hi> Yee ſhall be in the <hi>San<g ref="char:EOLhyphen"/>ctum Sanctorum,</hi> when the wicked in the loweſt dungeon ſhall roare, and not one drop of water to quench their thirſt.</p>
+            <closer>
+               <signed>Thine in the Lord, <hi>F. W.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:113609:3"/>
+            <head>A SERMON OF CONSOLATION for all true Chriſtians.</head>
+            <epigraph>
+               <q>
+                  <bibl>2 COR. 1.5.</bibl>
+                  <p>For as the ſufferings of Chriſt aboundeth in us; ſo our conſolation aboundeth through Chriſt.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>S the Philoſophers once ſaid con<g ref="char:EOLhyphen"/>cerning Chriſt, that he was <hi>God-man, A man of ſorrowes;</hi> ſo may I ſay of <hi>Paul,</hi> who was but a man, that he was <hi>a man of ſorrows.</hi> A Catalogue there<g ref="char:EOLhyphen"/>of you may read in the ſecond Epiſtle to the <hi>Corinthians,</hi> the 11. Chapter, where he ſays, <hi>he received five times, forty ſtripes ſave one,</hi> and <hi>he was thrice beaten with rods,</hi> and <hi>he thrice ſuffered ſhipwrack,</hi> and <hi>in journeying he was often, in perils of wa<g ref="char:EOLhyphen"/>ters, in perils of robbers, in perils in the Citie, in perils in the Sea;</hi> yet notwithſtanding ſo good was the Lord un<g ref="char:EOLhyphen"/>to him, that in all his difficulties, he did injoy a porti<g ref="char:EOLhyphen"/>on in him; <hi>for,</hi> ſays he, in the ſixt Chapter, <hi>though I was chaſtened, yet I was never killed, though perſecuted, yet not forſaken;</hi> nay more then ſo, as he had his times of ſuffe<g ref="char:EOLhyphen"/>ring,
+<pb n="2" facs="tcp:113609:4"/>ſo he had his times of comfort; the one came from an enemy, the other from a friend; the one from a creature, the other from a Creator: So our conſola<g ref="char:EOLhyphen"/>tion aboundeth in Chriſt.</p>
+            <p>In which words, you may obſerve <hi>Pauls</hi> two-fold condition, his ſuffering condition, and his comforting condition; or els if you will,
+<list>
+                  <item>1. <hi>Pauls</hi> Hell; and</item>
+                  <item>2. <hi>Pauls</hi> Heaven.</item>
+               </list>
+            </p>
+            <p n="1">1. <hi>Pauls</hi> Hell, becauſe the world calls it ſo, <hi>as the ſufferings of Chriſt aboundeth in us.</hi>
+            </p>
+            <p n="2">2. <hi>Pauls</hi> Heaven, becauſe the Chriſtians judge it ſo, <hi>ſo our conſolation aboundeth through Chriſt.</hi>
+            </p>
+            <p>I am now to ſpeake of a Chriſtians Heaven upon Earth, and I ſhall ſhew you the priviledge of a Chri<g ref="char:EOLhyphen"/>ſtian, and that is in the Text.</p>
+            <p>In the Text there are theſe five particulars; as</p>
+            <p>Firſt, The Chriſtians priviledge, and that is <hi>Conſo<g ref="char:EOLhyphen"/>lation.</hi>
+            </p>
+            <p>Secondly, The right to the priviledge; <hi>our Conſo<g ref="char:EOLhyphen"/>lation.</hi>
+            </p>
+            <p>Thirdly, The meaſure of our conſolation, <hi>it abound<g ref="char:EOLhyphen"/>eth.</hi>
+            </p>
+            <p>Fourthly, The ſutableneſſe to <hi>Pauls</hi> ſuffering, <hi>as the ſufferings of Chriſt aboundeth in us, ſo our conſolation a<g ref="char:EOLhyphen"/>boundeth in Chriſt.</hi>
+            </p>
+            <p>Fiftly, The ground of this conſolation, and that is Chriſt; <hi>ſo our conſolation aboundeth in Chriſt.</hi>
+            </p>
+            <p>Now there are as many points of Doctrines, as there are parts in the Text.</p>
+            <p>As firſt from the priviledge of a Chriſtian, you may gather this point of Doctrine;</p>
+            <pb n="3" facs="tcp:113609:4"/>
+            <p> 
+               <hi>That the condition of a Chriſtian is ſometimes a ſuffering condition, and ſometimes a comfortable condition.</hi>
+            </p>
+            <p>I have oftentimes compared a childe of God, like unto the Picture of <hi>Solomon;</hi> who is pictured halfe in Heaven, and halfe in Hell: So a Chriſtian is ſometimes rapt up with comforts above, and ſometimes ſinking downe into Hell with dreames.</p>
+            <p>The ſecond Propoſition from the right to this pri<g ref="char:EOLhyphen"/>viledge, is,</p>
+            <p>
+               <hi>That it is not impoſsible for a childe of God to be aſſured in this life of his intereſt in Chriſt;</hi> this the Apoſtle knew well.</p>
+            <p>The third Doctrine, from the meaſure of our con<g ref="char:EOLhyphen"/>ſolation, is this;</p>
+            <p>
+               <hi>That the conſolation of a Chriſtian, is an abundant con<g ref="char:EOLhyphen"/>ſolation.</hi>
+            </p>
+            <p>Friends, you that feare God, thinke of this Text; God gives you not this by drops, but by ſhowers.</p>
+            <p>The fourth Doctrine, from the ſutableneſſe of <hi>Pauls</hi> ſuffering, is this;</p>
+            <p>
+               <hi>That God bath comforts ſutable to his peoples afflictions.</hi>
+            </p>
+            <p>Sometimes the people of God have light afflictions, then God gives them ſmall comforts; ſometimes they are under great trials, then they have great comforts.</p>
+            <p>Fiftly, from the ground of our conſolation, which is Chriſt; obſerve this point, which is the point I in<g ref="char:EOLhyphen"/>tend to inſiſt upon.</p>
+            <p>
+               <hi>That Jeſus Chriſt is the ground of a Chriſtians comfort in all ſuffering conditions.</hi>
+            </p>
+            <p>This point ſpecially concernes all thoſe that feare God; what your ſufferings are I know not, but where your comfort is, God willing I ſhall declare unto you; I ſuppoſe you that are reſolved to walke cloſe to God,
+<pb n="4" facs="tcp:113609:5"/>whatever you reſolve to meet withall, expect ſad daies; and in thoſe ſad dayes you will have ſweet and good comfort from Jeſus Chriſt; though friends be taken away, and the Miniſters, and all gone; then Chriſt will ſtand a man in ſtead when all creatures faile; But for the proofe of the point, <hi>That Jeſus Chriſt is the ground of a Chriſtians comfort;</hi> I ſhall give you but one Scrip<g ref="char:EOLhyphen"/>ture, in the 15. of <hi>John</hi> 18. <hi>I will not leave you comfort<g ref="char:EOLhyphen"/>leſſe, but I will come unto you.</hi> At the firſt the Diſciples might thinke, Why, who ſhall be our Comforter, wee have none now Chriſt is gone. But marke; <hi>I will not leave you comfortleſſe; but I will come unto you againe;</hi> hence I gather, That a childe of God may be friend<g ref="char:EOLhyphen"/>leſſe, and moneyleſſe, and helpleſſe, in regard of crea<g ref="char:EOLhyphen"/>tures, but not comfortleſſe in regard of Chriſt; if I ſhould goe away and never come againe, then you might hang downe your heads, <hi>but I will come unto you.</hi>
+            </p>
+            <p>Now if you will hearken unto me, I will prove by three reaſons, that there is no comfort to be had, or found in any, but in Jeſus Chriſt, and therefore it is in vaine to truſt to ſilver, or gold, or the creature.
+<list>
+                  <head>Three Reaſons.</head>
+                  <item>1. From the free offer of Chriſt.</item>
+                  <item>2. From the fulneſſe of the promiſe.</item>
+                  <item>3. From the emptineſſe of the creature.</item>
+               </list>
+            </p>
+            <p>The firſt Reaſon, proving that there is no comfort but in Chriſt, is taken from the free offer of Chriſt unto his people.</p>
+            <p>You ſhall ſee who Chriſt offers himſelfe unto; <hi>He came not to call the righteous, but ſinners to repentance;</hi> Marke here, <hi>he came not to call the righteous,</hi> that is, he came not to call ſuch as had need of none, but truſted
+<pb n="5" facs="tcp:113609:5"/>in their own; no, <hi>but ſinners to repentance;</hi> ſuch who felt the burthen and weight of their ſinnes; God hath promiſed meat to the hungry, and not to the full; men muſt have right qualifications, ſutable to receive Gods mercies.</p>
+            <p>But now may a poore drooping dying ſoule ſay, if it be ſo that wee muſt have right qualifications, why, then I have nothing to doe with Chriſt; alas, miſera<g ref="char:EOLhyphen"/>ble is my condition, I have no qualifications.</p>
+            <p>But for anſwer to this: Art not thou dead, art not thou ſicke, art not thou lame, or art not thou blind? why then thou mayeſt live, thou mayeſt have health, thou mayeſt be whole, or thou mayeſt ſee, if thou wilt, Chriſt is offered unto all, if they will receive him.</p>
+            <p>The ſecond Reaſon is taken from the fulneſſe of the Promiſe.</p>
+            <p>There is a fulneſſe of grace, of mercy, of glory, in the promiſe; but ſometimes perhaps you read ſome pro<g ref="char:EOLhyphen"/>miſes, and you thinke they are empty, but when a Mini<g ref="char:EOLhyphen"/>ſter of God comes and opens it, then you will goe home, and ſay, you never thought there was ſo much in a promiſe; O Beloved, when you doe once ſee the fulneſſe of comfort in a promiſe, you will enquire more after them; <hi>for all the promiſes in Chriſt, are yea and amen, bleſſed for evermore.</hi>
+            </p>
+            <p>A third Reaſon is taken from the emptineſſe of the creature.</p>
+            <p>And here I ſhall prove there is no comfort in the creature; for goe towards Heaven to the creature the Angels, why thou canſt have no comfort by them; for in the 1. <hi>Epheſians</hi> 12. <hi>All things are reconciled to God in Chriſt;</hi> well then, come downe to the Miniſter, but doe not reſt for comfort in him; for if God be not in his
+<pb n="6" facs="tcp:113609:6"/>Miniſtry, he can doe thee no good. Why then goe to thy rich friends; will ſome ſay, ſuch a one hath an Unckle, or an Aunt, that are worth ſo much, and ſo much; I, but what of all this? alas, this is nothing to what ſhall become of thy poore ſoule; your faſting, and ſighing is nothing, if Chriſt be not in them. I would not give you a ſtraw for a thouſand ſuch duties; for in the 15. of <hi>John,</hi> ſaith Chriſt, <hi>without me yee can doe no<g ref="char:EOLhyphen"/>thing.</hi> So that there is no comfort to be had or found in any but in Chriſt; and in the 15. of <hi>John</hi> 16. <hi>Whatſoever you ſhall aske of my Father in my name,</hi> ſaith Chriſt, <hi>he ſhall give it you.</hi> Thus you have the reaſons of the point, why Jeſus Chriſt is the ground of a Chriſtians com<g ref="char:EOLhyphen"/>fort. I ſhall now come to the uſe of the point.
+<list>
+                  <head>Foure Uſes of the point.</head>
+                  <item>1. For Examination.</item>
+                  <item>2. For Comfort.</item>
+                  <item>3. For Terrour.</item>
+                  <item>4. For Exhortation.</item>
+               </list>
+            </p>
+            <div type="part">
+               <head>The firſt Uſe for Examination.</head>
+               <p>To examine whether Chriſt be yours, and ſo to be your comfort.</p>
+               <p>Some may ſay, how ſhall I know whether Chriſt be ours or no?</p>
+               <p n="1">1. I anſwer, by being a new creature, and he that is a new creature, hath a new ſoule and body, new hands, new eyes, new actions, he doth ſpeake and walke in a better way then ever he did.</p>
+               <p n="2">2. He that is a new creature, hath a new light; be<g ref="char:EOLhyphen"/>fore
+<pb n="7" facs="tcp:113609:6"/>he faw the creature to be the chiefeſt good, and now ſees Chriſt to be the chiefeſt good, not onely the chiefeſt good, but his chiefeſt good.</p>
+               <p n="3">3. He that is a new creature, hath a new will; before the man would have his will, though it coſt him his life; now he is a man of a new ſpirit, Not my will, but thy will be done, O Lord; and Lord, what wouldſt have me to doe? or Lord what wouldſt have me to ſuffer, I will doe or ſuffer.</p>
+               <p n="4">4. New affections of love; before he loved ſinne, and hated God, now he loves God, and hates ſinne, with an eternall hatred.</p>
+               <p n="5">5. New joyes, and new ſorrowes; he mourned be<g ref="char:EOLhyphen"/>fore, becauſe he could not injoy ſinne, but now he mournes for ſinne; and joyes that he can mourne for ſinne.</p>
+               <p n="6">6. That man that is a new creature, hath new hopes, and new thoughts; before he hoped in the creature, now he hopes in Chriſt; before he had revengefull thoughts, and Atheiſticall thoughts, now he hath hea<g ref="char:EOLhyphen"/>venly thoughts.</p>
+               <p n="7">7. Againe, He that is a new creature, hath new ſo<g ref="char:EOLhyphen"/>cietie; before he uſed to be among the wicked, now he is with <hi>Davids</hi> companions, with ſuch as are godly; wicked wretches are now as Hell to him.</p>
+               <p n="8">8. Againe, He that is a new creature, hath new ſtrength, and new experience; before he performed duties in the ſtrength of a creature, but now in the ſtrength of a God; before by his owne experience, but now by Chriſts experience.</p>
+               <p n="9">9. Againe, He that is a new creature, hath new parts; before his parts puft him up with pride, but now his good parts make him humble.</p>
+               <p n="10">
+                  <pb n="8" facs="tcp:113609:7"/> 10. Laſtly, He that is a new creature, hath new reſo<g ref="char:EOLhyphen"/>lutions, and new ends, he reſolves now to give up him<g ref="char:EOLhyphen"/>ſelfe to Chriſt, and his end is to enjoy Jeſus Chriſt. Now if you can find all theſe that I have named, then you are a new creature, and it is a ſigne that Chriſt is yours.</p>
+               <p>The ſecond Reaſon is this; if Jeſus Chriſt be the ground of your comfort, ſee then how you improve him.</p>
+               <p>For he that makes Chriſt the ground of his com<g ref="char:EOLhyphen"/>ſort, makes Chriſt the ground of his confidence; he does not relie on any thing he does; the Prophet <hi>Da<g ref="char:EOLhyphen"/>vid</hi> taught him that leſſon; and ſo the Prophet <hi>Jere<g ref="char:EOLhyphen"/>miah, Truſt not in lying vanities, ſaying, The Temple of the Lord:</hi> So I ſay, truſt not in lying vanities, truſt not in your prayers, ſaying, <hi>My prayers, my prayers,</hi> for then you make your prayers, lying vanities. Why, you will ſay, what muſt not I pray? I, pray in the name of God, but relie not on them; put not thy confidence in them; but relie upon Jeſus Chriſt.</p>
+               <p>Thirdly, He that hath Chriſt to be his, is contented with him: come what will come, if Chriſt be his, he is contented, though times of famine come, though times of bloud come (as it is likely) and the Miniſters taken away, and the Ordinance taken away, yet he is reſolved to feare nothing, he will truſt in Chriſt, and be con<g ref="char:EOLhyphen"/>tent with him: Nay, come to a childe of God that hath loſt his eſtate, and aske him, how he does now; why, ſayes he, I am in health ſtill, though I have loſt my e<g ref="char:EOLhyphen"/>ſtate; Suppoſe he hath loſt his libertie, come to him now, how doſt thou now? I am well ſtill, I have not loſt my friends; nay, ſuppoſe he hath loſt his yoak-fellows; how doſt now? alive ſtill through Gods mercy; nay,
+<pb n="9" facs="tcp:113609:7"/>further, ſuppoſe he hath loſt his eſtate, friends, liber<g ref="char:EOLhyphen"/>tie, and that God hath ſtruck him ſicke, and hid his face from him; why, how is it now? why, out of hell, through Gods mercy, ſtill he acknowledges Gods mercy in what condition ſoever he is in.</p>
+            </div>
+            <div type="part">
+               <head>The ſecond Uſe is a Uſe of comfort.</head>
+               <p>What is there any new creatures here now? if there be, bleſſed be God, for all is yours: as in the 1 <hi>Cor.</hi> 3.22. <hi>Whether Paul, or Apollo, or Cephas, or the world, or life, or death, or things preſent, or things to come, all are yours, and yee are Chriſts, and Chriſt is Gods.</hi> The longer you live, when you die, Chriſt is yours, and the ſooner you die, you ſhall have life. And ſee how God ſtrengthens them that truſt him, as you may ſee in <hi>Iſai.</hi> 51. <hi>I am he that comforteth David, even I am he that comforteth thee.</hi> Ah, but ſayes the poore ſoule, my enemies are very ſtrong: why needſt thou feare man, that is but the crea<g ref="char:EOLhyphen"/>ture? A child of God, and afraid of the ſonne of man; a child of God to live in glory hereafter for ever, and be afraid of man that ſhall wither like graſſe? I, but ſays the poore ſoule, there is one thing more then this, if men and Devils were my enemies, they were but crea<g ref="char:EOLhyphen"/>tures, but my God is gone; if that men, or friends, or creatures had forſaken me, then I might not be afraid, but my God is gone, and I have cauſe to mourne. But ſee in the 49. of <hi>Iſai.</hi> 13.14, 15. <hi>Sing O Heaven, and be joyfull O earth, and break forth into ſinging O mountaines; for God hath comforted his people, and will have merey on his afflicted.</hi> Sure the Lord hath ſome great thing to ſay, that he cals all to ſing: well, what then, ſee the objecti<g ref="char:EOLhyphen"/>on; <hi>But Zion ſaid, my Lord hath forgotten me, and my God
+<pb n="10" facs="tcp:113609:8"/>hath forſaken mee.</hi> But mark the anſwer; ſaith the Lord, <hi>Can a mother forget her childe? yea they may, yet will not I forget thee;</hi> As if he ſhould ſay, What, doeſt thou thinke that I will forget thee? no; thou art my child, and I will not forget thee, no. See in the 66. of <hi>Iſai.</hi> 13. <hi>As one whom his mother comforteth, ſo will I comfort you, and yee ſhall be comforted in Jeruſalem.</hi> As if the Lord ſhould ſay, I will comfort you in ſpite of all the Devils in Hell. Thus much for the ſecond uſe, the uſe of com<g ref="char:EOLhyphen"/>fort, ſhewing the happie and comfortable condition of all that are new creatures, God and all is theirs.</p>
+            </div>
+            <div type="part">
+               <head>A third Uſe is a Uſe of Terrour.</head>
+               <p>To you old creatures, who have lived this thirtie, or fortie, or fiftie years in ſinne; in ſwearing and drunken<g ref="char:EOLhyphen"/>neſſe and cozening your neighbours; well, all of you that live in this eſtate, are in a moſt deſperate conditi<g ref="char:EOLhyphen"/>on; ſtill continue in ſinne, and never looke after hea<g ref="char:EOLhyphen"/>ven; know my brethren, that the Lord will one day pay you home. Where is your comfort; in God? no, in hell, if the book of God be true; for ſee in the thir<g ref="char:EOLhyphen"/>tieth of <hi>Iſai. Hell is preſerved of old.</hi> Here is a place for you, what thinke you of it? Give me leave to aske you a queſtion, you that have lived ſo long in <hi>London,</hi> and may heare as many Sermons throughout the yeare, as there are dayes in the yeare, if you will; what is your comfort? you muſt have ſome comfort, therfore deale plainly with your one hearts, what comfort have you, what are your riches your comfort? well then before you goe home to them, take one Scripture with you, which is in <hi>Luke</hi> 5.24. <hi>woe unto you that are rich, for you have received your conſolation.</hi> Now ſee if you can find
+<pb n="11" facs="tcp:113609:8"/>any comfort out of this, if you can, then bleſſed are you, but if not, you are curſed. Why, will ſome ſay, are rich men curſed? no, but ſuch as make riches their Gods, woe to you. Well then, come to a poore rich man, I call him poore, though never ſo rich, becauſe we are all poore that are without Chriſt. It may be your houſe is full, and your bags full, and your ſhops full, but <hi>woe be to you that are full;</hi> and then <hi>woe be to you that laugh.</hi> What may ſome ſay, may not we laugh? yes, but it is ſuch a laughter, as will end in mourning, O woe be to you. Well, come to you poore men, where are your comforts? what on your meanes and good hearts? I, but all is nothing without Chriſt; ah me thinks I ſee one lying on his death-bed, with a dreadfull howling, lamenting, &amp; bewayling his condition, expecting com<g ref="char:EOLhyphen"/>fort, but can finde none; for when he lookes on God, there is nothing but terrour; looke on the creature, nothing but terrour; looke on the word of God, and every ſentence ſpeaks terrour to him; nay, every letter in the Bible are as ſo many daggers to ſtrike him in the heart, and whoſoever dyes out of Chriſt. That is a ſweet ſaying in the Pſalmes to a godly man; <hi>The Lord comforteth me on every ſide;</hi> but now to a man out of Chriſt, when he lookes on every thing, they are but as curſes to him, his wife, children, neighbours, goods, houſes, and all as curſes to thee. And ſee what the <hi>Pſal<g ref="char:EOLhyphen"/>miſt</hi> ſaith in the 58. <hi>Pſal.</hi> 10. <hi>The righteous ſhall rejoyce when he ſeeth the vengeance: he ſhall waſh his feet in the bloud of the wicked.</hi> Well, I beſeech you Brethren, la<g ref="char:EOLhyphen"/>bour to be new creatures, and to get an intereſt in Chriſt; for your ſoules and bodies ſhall fry in hell to all eternitie, if thou haſt no part in Chriſt; for Jeſus Chriſt is the ground of a Chriſtians comfort. So then
+<pb n="12" facs="tcp:113609:9"/>without Chriſt, without comfort, without Heaven, and without all; So then moſt miſerable is that man that is Chriſtleſſe.</p>
+            </div>
+            <div type="part">
+               <head>The laſt uſe is a Uſe of Exhortation.</head>
+               <p>Let us all labour to goe to Jeſus Chriſt for comfort; it may be you pray, and you goe amongſt Chriſtians; why, it is good, and you goe to Miniſters, it is well, but if you goe not unto Jeſus Chriſt, all is nothing, there is no comfort but in Jeſus Chriſt.</p>
+               <p>Now I ſhall ſhew you that there are foure impedi<g ref="char:EOLhyphen"/>ments that hinders a ſoule from going to Chriſt.</p>
+            </div>
+            <div type="part">
+               <head>The firſt impediment is ſinne.</head>
+               <p>O my Brethren, take heed of ſinne; for ſee in the 59. of <hi>Iſai.</hi> 2. <hi>Your iniquities have ſeparated between God and you, and your ſinnes have hid his face from you.</hi> Not your afflictions, but your ſinnes; ſickneſſe ſeparates from health, and impriſonment from libertie; but ſinne ſeparates God from thy ſoule; oh therefore Brethren, have a care of ſinne, your ſpeciall ſinnes; get your hearts up in a morning, and be ſure you finde your heart broken in every dutie; for many of you never come to a dutie, but your hearts are icey, therefore you muſt breake the ice, or elſe you cannot drinke of the water of life. And this is the firſt impediment that hinders a poore ſoule from going to Chriſt.</p>
+            </div>
+            <div type="part">
+               <head>The ſecond Impediment is too much inordinacy after the creature.</head>
+               <p>Thoſe comforts that are grounded, partly between Chriſt and the creature, are dead comforts; ah Bre<g ref="char:EOLhyphen"/>thren,
+<pb n="13" facs="tcp:113609:9"/>we may preach all our lives long, and yet not drive men off from the creature, without God pull and tug them off: ſee in the 45. of <hi>Jeremiah</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> thou great things for thy ſelfe? ſeeke them not:</hi> What, thou an heire of Heaven, a child of God, one that is married to Jeſus Chriſt, and ſeekeſt after the creature? oh in the name of God reſt not on the creature, but goe to Jeſus Chriſt oh if that the Lord would open your eyes this day, you would then cry, None but Chriſt, none but Chriſt. The Apoſtle <hi>Paul</hi> ſaith, <hi>Truſt not in uncertaine riches, <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in the living God, who gives all things richly to enjoy.</hi> O truſt in God, truſt not in riches that are <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>y, but in God who is full; truſt not in man who cannot live, but in God who lives to all eter<g ref="char:EOLhyphen"/>nitie; O who would not truſt in God? my Brethren, if that any creature can give you a drop of comfort, truſt in them, if not, why then truſt in the Lord Jeſus Chriſt. But if you goe to looke comfort in the crea<g ref="char:EOLhyphen"/>ture, you may as ſoone finde the Sunne in the Earth, as comfort in the creature.</p>
+            </div>
+            <div type="part">
+               <head>The third Impediment, is groundleſſe objections.</head>
+               <p>If the Devill or wicked men hindred you from com<g ref="char:EOLhyphen"/>fort, it were lamentable, but you hinder your owne felues of comfort, I dare ſay, th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re are many that take part with the Devil and wicked men in finding out objections againſt the Miniſters, and though the Mini<g ref="char:EOLhyphen"/>ſter anſwers them one by one, and gives them ſoul-con<g ref="char:EOLhyphen"/>vincing arguments thy Scripture; yet the very next day, the ſame ſtill, that I am perſwaded, many there are that ſtudy obiections to object againſt the Miniſters, that if the Miniſter ſhould ſtudy to anſwere them, it would
+<pb n="14" facs="tcp:113609:10"/>be his onely work; for they ſtill ſtudy objections to put him to a non-plus. Well, Brethre<g ref="char:cmbAbbrStroke">̄</g>, do not yeeld to theſe objectio<g ref="char:cmbAbbrStroke">̄</g>s, for they come from hell. But let me perſwade you to labour to ſee Jeſus Chriſt at all times, in every trouble, croſſe, or affliction; my meaning is, labour to ſee the attributes of God in all afflictions, ſee the love of God; when you walke in the fields, ſee the power and wiſdome of God; and when you ſee your enemies, looke on the power of God that is able to confound them all; ah Brethren, wee have loſt many Sermons and many good duties for want of Jeſus Chriſt, pray God we doe ſo no more. Now, Brethren, let us all re<g ref="char:EOLhyphen"/>ſolve to ſay, all Sermons are empty, and all prayers are empty, all duties are empty, all creatures are empty, and all things are empty, without Jeſus Chriſt; oh therefore you old men and women, look up, doe not you ſee your glaſſe is even out? doe not you ſee the Sunne is downe? as it is with the labourers in the field, that have loitered all the day, &amp; ſee the Sunne is down, then they begin to ſtirre, and ſay, O come let us be do<g ref="char:EOLhyphen"/>ing, for our Maſter will come preſently, and wee ſhall not have done our dayes worke; ſo Brethren, it is with you, you have been loitering all this while, and now the Sunne is downe, the glaſſe is even out, therefore up and be doing, for our Maſter will come, the Lord Chriſt he will come, and wo be to that ſoule, that when Chriſt ſhall come, ſhall be found idle in his ſervice, there<g ref="char:EOLhyphen"/>fore for the Lords ſake labour to get the Lord Jeſus Chriſt.</p>
+               <p>And you young ones, who ſeeme to be the uphol<g ref="char:EOLhyphen"/>ders of the Miniſtry, it is well, wee have hopes of you, well, labour to get Jeſus Chriſt, and keepe him when you have him; for the Goſpel will not be taken from
+<pb n="15" facs="tcp:113609:10"/>us, I hope, therefore labour to get Jeſus Chriſt for your comfort; for what is the reaſon in times of warre and famine, that men are ſo fearfull, and afraid? onely becauſe Chriſt is not the ground of their comfort, therefore let me beſeech you, both young and old, all for to labour after Jeſus Chriſt, and having got him, then truſt him with all, with health, wealth, goods, eſtate, ſoule and body, truſt him with all; for if Chriſt be the ground of thy comfort, thou needſt not feare, neither men nor Devils, nor any thing under the Hea<g ref="char:EOLhyphen"/>vens, for they can doe us no hurt at all.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
